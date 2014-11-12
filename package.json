@@ -1,0 +1,16 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "3.2.2",
+    "express-partials": "^0.3.0",
+    "mongoose": "^3.8.19",
+    "mongoose-relationship": "0.0.6",
+    "querystring": "^0.2.0"
+  }
+}
